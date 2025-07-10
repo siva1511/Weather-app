@@ -6,7 +6,7 @@ It fetches real-time weather data and displays temperature, humidity, and weathe
 🌐 **Live Demo**: [https://weather-app-siva-xi.vercel.app/](https://weather-app-siva-xi.vercel.app/)
     ## 🖼️ Screenshot
 
-  ![App Screenshot]()
+  ![App Screenshot](https://github.com/siva1511/Weather-app/blob/main/Screenshot%202025-07-10%20144626.png)
 
 
 ---
