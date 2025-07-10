@@ -4,6 +4,10 @@ This is a simple weather application that shows weather information using **HTML
 It fetches real-time weather data and displays temperature, humidity, and weather conditions for a given location.
 
 🌐 **Live Demo**: [https://weather-app-siva-xi.vercel.app/](https://weather-app-siva-xi.vercel.app/)
+    ## 🖼️ Screenshot
+
+  ![App Screenshot]()
+
 
 ---
 
